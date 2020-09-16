@@ -11,4 +11,4 @@ editor_options:
 Welcome to my research website Rudy.
 
 * [Teeth growth analysis](teeth.html)
-* [Tanes page ](https://tcmartinez.github.io/myproject/)
+* [Tanes page :) ](https://tcmartinez.github.io/myproject/)
